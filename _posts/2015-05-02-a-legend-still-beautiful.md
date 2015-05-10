@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A legend, still beautiful
+tags: [legend of kyrandia, graphic adventures, old school]
 ---
 
 I was at the [GGJ](http://globalgamejam.org/) early this year when we decided to take a break and eat burguers and drink some beers. Seeing it now in retrospective I could say that the whole event was a very rich experience but that particular night was the best. 
