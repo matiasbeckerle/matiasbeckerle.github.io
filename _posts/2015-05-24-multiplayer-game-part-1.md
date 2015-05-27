@@ -33,5 +33,5 @@ I will explain a little bit in the following posts. If you want to take a look t
 *Please don't take anything as a rule because it could be wrong. Maybe there are better ways to do it. Remember, is my first time with networking and I'm kind of a newbie with game development. I've just wanted to share a code that is working.*
 
 <div class="message">
-	This post belongs to a series entitled "Multiplayer game". Please read the next posts: <a href="/2015/05/24/multiplayer-game-part-1">Part 1: Introduction</a>.
+	This post belongs to a series entitled "Multiplayer game". Please read the next posts: <a href="/2015/05/27/multiplayer-game-part-2">Part 2: Server</a>.
 </div>
