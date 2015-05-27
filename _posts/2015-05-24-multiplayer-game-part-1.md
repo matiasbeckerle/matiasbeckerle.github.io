@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multiplayer game part 1
-tags : [development, tutorial, multiplayer, networking, nodejs]
+tags : [development, tutorial, multiplayer, networking, Node.js, Pixi.js, socket.io]
 ---
 
 ## Introduction
@@ -31,3 +31,7 @@ I will explain a little bit in the following posts. If you want to take a look t
 *Take into account that anyone who wants to make a fast-paced multiplayer game would need to handle a LOT of things that I'm not showing here. The interpolation in this example is like a joke, seriously.*
 
 *Please don't take anything as a rule because it could be wrong. Maybe there are better ways to do it. Remember, is my first time with networking and I'm kind of a newbie with game development. I've just wanted to share a code that is working.*
+
+<div class="message">
+	This post belongs to a series entitled "Multiplayer game". Please read the next posts: <a href="/2015/05/24/multiplayer-game-part-1">Part 1: Introduction</a>.
+</div>
