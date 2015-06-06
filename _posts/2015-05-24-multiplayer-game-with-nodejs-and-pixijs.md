@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multiplayer game with Node.js and Pixi.js
-tags : [development, multiplayer, networking, Node.js, Pixi.js, socket.io]
+tags : [development, multiplayer, networking, JavaScript, Node.js, Pixi.js, socket.io]
 ---
 
 I have been reading about networking for some time because multiplayer games are really fun. There is a few models to choose which one fits better for your game but I decided to try with server/client model.
