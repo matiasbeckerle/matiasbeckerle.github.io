@@ -17,6 +17,10 @@ author:
 
 paginate:         5
 
+# Bootstrap
+JB:
+    tags_path:    /tags/
+
 # Custom vars
 version:          1.0.0
 
