@@ -27,6 +27,7 @@ The communication between both sides is handled by [socket.io](http://socket.io)
 
 - You can [play the game](https://doom-lgs.herokuapp.com) in Heroku where is hosted by free. Try the multiplayer stuff opening two browser tabs.
 - The code is available at [GitHub](https://github.com/matiasbeckerle/doom-lgs). Take a look, I hope it helps!
+- More information [here](https://github.com/matiasbeckerle/doom-lgs/blob/master/README.md).
 
 ## Disclaimers
 
