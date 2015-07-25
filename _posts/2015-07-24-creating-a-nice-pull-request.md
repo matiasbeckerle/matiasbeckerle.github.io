@@ -8,28 +8,16 @@ Working in a team requires more than development skills. You need to push yourse
 
 > Pull requests let you tell others about changes you've pushed to a repository on GitHub. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
 
-Seems easy, right? Well... that is not true for all teams. I don't know exactly why but I saw lot of pull requests without information. If you are asking for help the minimum you have to do is to provide data for your reviewers.
+Seems easy, right? Well... that is not true for all teams. I see pull requests without information sometimes. If you are asking for help the minimum you can do is to provide data for your reviewers.
 
 ## Asking a review
 
 To create a good pull request I will give you some useful advices (in my opinion):
 
 - A short title with a meaningful overview of what are you trying to introduce in the codebase. This title could also contains a code for reference.
-
-	`PROJ-11 - Add configuration file`
-	
 - Descriptions are awesome. With a description you could explain a little more your changes, give a substantiation for a specific solution, advice or warning about something. Provide context, your mate possibly doesn't know anything about your tasks. Remember: the others doesn't have all the time of the world, the more information you give, the less time you consume of them.
-
-		Hey guys, could you take a look? @johndoe @jane
-		
-		To add new config values you need to use env.json, by now there is only for development and production.
-		
-		Thanks!
-
-- Mention the reviewers. The example from above is asking for John Doe and Jane to give an opinion. Don't be anxious: pull requests are *async*. They will take a look only when found some time to do it.
-
+- Mention the reviewers. Don't be anxious: pull requests are *async*. They will take a look only when found some time to do it.
 - Answer in the pull request, always. If you talk by private messages another fellow will not know about that talk. A response is useful for everyone. Also serves as a registry.
-
 - Don't take a correction or suggestion as an offence. I believe every developer in the world want to work in a wonderful codebase. Corrections and suggestions are to keep or improve that.
 
 ## Making a review
