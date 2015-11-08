@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simplest shield effect in Unity5
-tags: [unity, development, tutorial]
+tags: [unity, gamedev, tutorial]
 ---
 
 I was needing a solution for a shield effect and none seems to fit my needs or taste so I started a simple new one. Maybe you will need more complex stuff later but this is enough to start. Something like this:

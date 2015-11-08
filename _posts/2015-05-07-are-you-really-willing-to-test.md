@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are you really willing to test?
-tags : [unit testing, tips]
+tags : [unit testing, development, tips]
 ---
 
 If the answer is **no** then you should leave it. Don't writing tests is preferable than writing bad tests because you start to lose trust in the code when you discover the first one *not-so-successful-test*.
