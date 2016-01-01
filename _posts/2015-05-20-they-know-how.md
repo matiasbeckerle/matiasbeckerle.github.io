@@ -1,7 +1,7 @@
 ---
 layout: post
 title: They know how
-tags : [diablo 3, inspiration]
+tags : [diablo 3, gaming, inspiration]
 ---
 
 There is a reason for categorizing some game companies like *Blizzard*, *id Software* and *Valve* of being the best. They know how to make things right and epic. They even doesn't have release dates for their games. A game is **"done when it's done"**.
