@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: The solution is out there
 tags: [development, tips]
 ---

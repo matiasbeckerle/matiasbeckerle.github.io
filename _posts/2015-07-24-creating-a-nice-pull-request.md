@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Creating a nice pull request
 tags : [development, tips]
 ---

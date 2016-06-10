@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: A legend, still beautiful
 tags: [legend of kyrandia, graphic adventures, old school]
 ---

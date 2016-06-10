@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: They know how
 tags : [diablo 3, gaming, inspiration]
 ---

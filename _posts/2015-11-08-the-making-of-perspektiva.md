@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: The making of PERSPEkTIVA
 tags: [gamedev, development, tips]
 ---

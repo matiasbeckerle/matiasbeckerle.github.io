@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Are you really willing to test?
 tags : [unit testing, development, tips]
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: The Talos Principle
 tags: [the talos principle, gaming, inspiration]
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Multiplayer game with Node.js and Pixi.js
 tags : [gamedev, development, multiplayer, networking, JavaScript, Node.js, Pixi.js, socket.io]
 ---

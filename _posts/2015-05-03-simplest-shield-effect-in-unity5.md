@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Simplest shield effect in Unity5
 tags: [unity, gamedev, tutorial]
 ---
@@ -31,7 +31,7 @@ Before step 4 and 5 is a good idea to play with some values in order to get your
 
 Add the following script inside your new *shield GameObject*:
 
-{% gist 3126b118c3acfae4dddf %}
+https://gist.github.com/matiasbeckerle/3126b118c3acfae4dddf
 
 Basically, the magic consist in putting the maximum alpha and smoothness when a collision is detected and fade out slowly.
 
