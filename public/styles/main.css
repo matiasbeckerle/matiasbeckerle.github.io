@@ -1,7 +1,5 @@
 body {
   color: #777777;
-  font-size: 1.5em;
-  line-height: 1.5em;
 }
 
 html, button, input, select, textarea,
@@ -37,11 +35,11 @@ nav {
 footer {
   padding: 2em 0;
   text-align: center;
+  border-top: 1px solid #eeeeee;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #1C0113;
-  line-height: 1.6em;
 }
 
 h2 {
@@ -80,4 +78,8 @@ img {
 .pure-menu-active>.pure-menu-link, .pure-menu-link:hover, .pure-menu-link:focus {
   background-color: #1C0113;
   color: #777777;
+}
+
+.pagination {
+  padding: 2em 0;
 }
