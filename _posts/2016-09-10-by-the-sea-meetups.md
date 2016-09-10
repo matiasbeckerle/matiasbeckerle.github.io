@@ -13,3 +13,5 @@ tags: [by the sea, meetup, development, tips]
 <p><img src="/public/img/by-the-sea-meetups/by-the-sea-meetup-1.jpg" alt="The things no one told me before the first day" /></p>
 <p><img src="/public/img/by-the-sea-meetups/by-the-sea-meetup-2.jpg" alt="The things no one told me before the first day" /></p>
 <p><img src="/public/img/by-the-sea-meetups/by-the-sea-meetup-3.jpg" alt="The things no one told me before the first day" /></p>
+<p>Thanks to Marian, Farza and Ulrich for helping me.</p>
+<p>Pictures taken by <a href="https://twitter.com/fedecosentino">Fede</a> and <a href="https://twitter.com/MakingSenseApps">someone else</a>.</p>
