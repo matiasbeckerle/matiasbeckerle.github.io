@@ -1,7 +1,3 @@
-body {
-  color: #777777;
-}
-
 html, button, input, select, textarea,
 .pure-g [class *= "pure-u"] {
   font-family: Georgia, serif;
@@ -40,7 +36,7 @@ footer {
 }
 
 header, h1, h2, h3, h4, h5, h6 {
-  color: #000000;
+  color: #333333;
 }
 
 h2 {
@@ -48,10 +44,10 @@ h2 {
 }
 
 a {
-  color: #64287F;
+  color: #FF5722;
 }
 a:hover {
-  color: #50007F;
+  color: #333333;
 }
 
 blockquote {
@@ -81,8 +77,11 @@ img {
   font-style: italic;
 }
 
+.pure-menu-link, .pure-menu-link:hover, .pure-menu-link:focus {
+  color: #333333;
+}
 .pure-menu-active>.pure-menu-link, .pure-menu-link:hover, .pure-menu-link:focus {
-  background-color: #000000;
+  background-color: #FF5722;
   color: #EEEEEE;
 }
 
