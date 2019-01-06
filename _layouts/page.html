@@ -1,18 +1,9 @@
-<!DOCTYPE html>
-<html lang="en-US">
-{% include head.html %}
-<body>
-  <div class="pure-g">
-    <div class="pure-u-1-1">
-      {% include header.html %}
-      {% include nav.html %}
-      <div class="content">
-        <h2>{{ page.title }}</h2>
-        {{ content }}
-      </div>
-      {% include footer.html %}
-    </div>
-  </div>
-  {% include analytics.html %}
-</body>
-</html>
+---
+layout: default
+---
+<article>
+  <header>
+    <h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1>
+  </header>
+  {{ content }}
+</article>
