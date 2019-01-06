@@ -44,6 +44,7 @@ minimal_theme: false         # radically minimalistic theme
 navigation:                  # (optional) site navigation in the header
   - index.html
   - about.md
+  - galleries.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   #envelope: "mailto:"
