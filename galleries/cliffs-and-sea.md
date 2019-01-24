@@ -3,6 +3,7 @@ layout: page
 title: "Cliffs and Sea"
 ---
 
+<p>Locations: Miramar and Chapadmalal, Buenos Aires, Argentina</p>
 <div class="row"> 
   <div class="column">
     <a href="/public/img/galleries/cliffs-and-sea/cliffs-and-sea-01.jpg" target="_blank">
@@ -28,11 +29,11 @@ title: "Cliffs and Sea"
     <a href="/public/img/galleries/cliffs-and-sea/cliffs-and-sea-07.jpg" target="_blank">
       <img src="/public/img/galleries/cliffs-and-sea/cliffs-and-sea-07-thumbnail.jpg" alt="Cliffs and Sea">
     </a>
+  </div> 
+  <div class="column">
     <a href="/public/img/galleries/cliffs-and-sea/cliffs-and-sea-08.jpg" target="_blank">
       <img src="/public/img/galleries/cliffs-and-sea/cliffs-and-sea-08-thumbnail.jpg" alt="Cliffs and Sea">
     </a>
-  </div> 
-  <div class="column">
     <a href="/public/img/galleries/cliffs-and-sea/cliffs-and-sea-09.jpg" target="_blank">
       <img src="/public/img/galleries/cliffs-and-sea/cliffs-and-sea-09-thumbnail.jpg" alt="Cliffs and Sea">
     </a>
