@@ -3,7 +3,7 @@ layout: page
 title: "Cliffs and Sea - PART 2"
 ---
 
-<p>Location: Chapadmalal, Buenos Aires, Argentina</p>
+<p><time datetime="2019-01-19">2019-01-19</time>: Chapadmalal, Buenos Aires, Argentina</p>
 <div class="row"> 
   <div class="column">
     <a href="/public/img/galleries/cliffs-and-sea-part-two/cliffs-and-sea-part-two-01.jpg" target="_blank">

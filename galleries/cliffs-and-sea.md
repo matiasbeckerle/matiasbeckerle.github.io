@@ -3,7 +3,7 @@ layout: page
 title: "Cliffs and Sea"
 ---
 
-<p>Locations: Miramar and Chapadmalal, Buenos Aires, Argentina</p>
+<p><time datetime="2018-12-27">2018-12-27</time>: Miramar and Chapadmalal, Buenos Aires, Argentina</p>
 <div class="row"> 
   <div class="column">
     <a href="/public/img/galleries/cliffs-and-sea/cliffs-and-sea-01.jpg" target="_blank">
